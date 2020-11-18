@@ -1,6 +1,9 @@
 # quizzler
 
-A new Flutter application.
+A new Flutter Quiz application.
+
+![Flutter Quiz APP Demo](demo/demo.gif)
+
 
 ## Getting Started
 
