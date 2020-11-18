@@ -2,7 +2,7 @@
 
 A new Flutter Quiz application.
 
-![Flutter Quiz APP Demo](demo/demo.gif)
+![Flutter Quiz APP Demo](demo/FlutterQuiz.gif)
 
 
 ## Getting Started
